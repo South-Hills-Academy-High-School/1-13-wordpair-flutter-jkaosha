@@ -2,7 +2,7 @@
 
 Once you have cloned the repository, open a terminal in Visual Studio code and run this command (including the . at the end):
 
-    flutter create --project-name wordpair_flutter .
+    flutter create --project-name grid_flutter .
 
 Example:
 
